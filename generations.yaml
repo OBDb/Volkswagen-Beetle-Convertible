@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Beetle_(A5)"
+
+generations:
+  - name: "A5 Convertible"
+    start_year: 2013
+    end_year: 2019
+    description: "The convertible version of the second-generation Beetle on the PQ35 platform, with TSI and TDI engines."
