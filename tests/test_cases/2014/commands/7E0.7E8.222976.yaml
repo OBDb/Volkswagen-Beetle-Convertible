@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222976
+test_cases:
+- expected_values:
+    BEETLECONV_EXH_GAS_T_SENS_1: 985.7
+  response: '7E8056229762681'
+- expected_values:
+    BEETLECONV_EXH_GAS_T_SENS_1: 1296.3
+  response: 7E80562297632A3

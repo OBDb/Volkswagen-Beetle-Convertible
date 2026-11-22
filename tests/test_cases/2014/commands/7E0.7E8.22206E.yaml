@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22206E
+test_cases:
+- expected_values:
+    BEETLECONV_CRANK_SPD_RPM: 2079
+  response: 7E80562206E081F
+- expected_values:
+    BEETLECONV_CRANK_SPD_RPM: 2455
+  response: 7E80562206E0997

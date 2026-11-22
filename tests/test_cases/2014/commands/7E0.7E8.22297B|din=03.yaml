@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22297B|din=03
+test_cases:
+- expected_values:
+    BEETLECONV_DPF_INPUT_GAS_T: 140
+  response: 7E80562297B28DC

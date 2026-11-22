@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2229D4
+test_cases:
+- expected_values:
+    BEETLECONV_ENG_TRQ_REQ_1: 433.5
+  response: 7E8056229D410EF
+- expected_values:
+    BEETLECONV_ENG_TRQ_REQ_1: 639.1
+  response: 7E8056229D418F7

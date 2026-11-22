@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222002
+test_cases:
+- expected_values:
+    BEETLECONV_ENG_TQ: 366.7
+  response: 7E8056220020E53
+- expected_values:
+    BEETLECONV_ENG_TQ: 547.4
+  response: '7E8056220021562'

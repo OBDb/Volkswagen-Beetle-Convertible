@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221137
+test_cases:
+- expected_values:
+    BEETLECONV_FUEL_PART_EVAP: 0.18744
+  response: '7E8056211371890'
+- expected_values:
+    BEETLECONV_FUEL_PART_EVAP: 0.24211
+  response: 7E8056211371F33

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    BEETLECONV_RPM: 2028.25
+  response: 7E80562F40C1FB1
+- expected_values:
+    BEETLECONV_RPM: 2351.75
+  response: 7E80562F40C24BF

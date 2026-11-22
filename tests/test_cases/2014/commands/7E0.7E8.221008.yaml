@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221008
+test_cases:
+- expected_values:
+    BEETLECONV_FLI_7E0: 0
+  response: '7E80462100800'

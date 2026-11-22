@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2220BB
+test_cases:
+- expected_values:
+    BEETLECONV_FUEL_HIGH_P_CTRL_DEV: 10.7
+  response: 7E8056220BB006B
+- expected_values:
+    BEETLECONV_FUEL_HIGH_P_CTRL_DEV: -1.5
+  response: 7E8056220BBFFF1

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22118B
+test_cases:
+- expected_values:
+    BEETLECONV_PQ35_CAMS_EDGE_POS_4: 2066.25
+  response: 7E80562118B8324
+- expected_values:
+    BEETLECONV_PQ35_CAMS_EDGE_POS_4: 2075.8125
+  response: 7E80562118B83BD

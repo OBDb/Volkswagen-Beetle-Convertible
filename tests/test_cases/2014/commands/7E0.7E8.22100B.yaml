@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22100B
+test_cases:
+- expected_values:
+    BEETLECONV_ENG_RADIATOR_FAN_REQ: 0
+  response: 7E80562100B0000

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22209C
+test_cases:
+- expected_values:
+    BEETLECONV_ENG_DRAG_TQ: 6492
+  response: 7E80562209CFD98
+- expected_values:
+    BEETLECONV_ENG_DRAG_TQ: 6495
+  response: 7E80562209CFDB6

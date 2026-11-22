@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22208A|din=03
+test_cases:
+- expected_values:
+    BEETLECONV_OIL_ASH_RESIDUE: 56.3136
+  response: 7E80762208A0AFF74EC
