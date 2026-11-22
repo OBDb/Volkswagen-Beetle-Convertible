@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211CD
+test_cases:
+- expected_values:
+    BEETLECONV_TCO_1_SYS: -38
+  response: 7E8056211CD0274
+- expected_values:
+    BEETLECONV_TCO_1_SYS: -38
+  response: 7E8056211CD027B

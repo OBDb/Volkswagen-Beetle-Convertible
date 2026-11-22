@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22209B
+test_cases:
+- expected_values:
+    BEETLECONV_TQ_REQ_SUM_AUXILIARY: 6536.6
+  response: 7E80562209BFF56
+- expected_values:
+    BEETLECONV_TQ_REQ_SUM_AUXILIARY: 6544.2
+  response: 7E80562209BFFA2

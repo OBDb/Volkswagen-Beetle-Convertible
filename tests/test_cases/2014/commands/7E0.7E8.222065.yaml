@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222065
+test_cases:
+- expected_values:
+    BEETLECONV_CHG_AIR_P_ACTUATOR: 24.85
+  response: '7E8056220656112'
+- expected_values:
+    BEETLECONV_CHG_AIR_P_ACTUATOR: 27.494
+  response: 7E8056220656B66

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2220D8
+test_cases:
+- expected_values:
+    BEETLECONV_FUEL_CONS_SINCE_DPF: 1.36
+  response: 7E8056220D80088
+- expected_values:
+    BEETLECONV_FUEL_CONS_SINCE_DPF: 1.69
+  response: 7E8056220D800A9

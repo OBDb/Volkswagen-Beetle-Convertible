@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22208D
+test_cases:
+- expected_values:
+    BEETLECONV_GPF_DIST_SINCE_REGEN: 0.223
+  response: 7E80762208D000000DF
+- expected_values:
+    BEETLECONV_GPF_DIST_SINCE_REGEN: 0.276
+  response: 7E80762208D00000114

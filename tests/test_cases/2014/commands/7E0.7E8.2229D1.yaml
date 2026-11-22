@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2229D1
+test_cases:
+- expected_values:
+    BEETLECONV_AIR_MASS_ACT_MG: 129.59
+  response: 7E8056229D1329F
+- expected_values:
+    BEETLECONV_AIR_MASS_ACT_MG: 313.76
+  response: 7E8056229D17A90

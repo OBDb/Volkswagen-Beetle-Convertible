@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22202A
+test_cases:
+- expected_values:
+    BEETLECONV_PQ35_CHARGE_AIR_P_ACTUAL: 1882.16
+  response: 7E80562202A5BE7
+- expected_values:
+    BEETLECONV_PQ35_CHARGE_AIR_P_ACTUAL: 2045.84
+  response: 7E80562202A63E5

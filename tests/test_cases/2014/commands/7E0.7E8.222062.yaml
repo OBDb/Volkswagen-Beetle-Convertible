@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222062
+test_cases:
+- expected_values:
+    BEETLECONV_APP_POS2: 0.265
+  response: '7E8056220620109'
+- expected_values:
+    BEETLECONV_APP_POS2: 0.267
+  response: 7E805622062010B

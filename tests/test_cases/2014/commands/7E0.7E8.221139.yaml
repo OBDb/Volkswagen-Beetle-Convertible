@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    BEETLECONV_MEAN_INJ_QUANTITY: 63.63
+  response: 7E80562113918DB
+- expected_values:
+    BEETLECONV_MEAN_INJ_QUANTITY: 78.74
+  response: 7E8056211391EC2

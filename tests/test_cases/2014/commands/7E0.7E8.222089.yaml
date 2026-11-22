@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222089
+test_cases:
+- expected_values:
+    BEETLECONV_DPF_TIME_SINCE_REGEN: 0.00195
+  response: 7E80762208900010B76
+- expected_values:
+    BEETLECONV_DPF_TIME_SINCE_REGEN: 0.00195
+  response: 7E80762208900014B7C

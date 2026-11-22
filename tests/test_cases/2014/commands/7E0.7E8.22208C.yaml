@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22208C
+test_cases:
+- expected_values:
+    BEETLECONV_DPF_SOOT_MEAS: 2.3
+  response: 7E80562208C00E6
+- expected_values:
+    BEETLECONV_DPF_SOOT_MEAS: 2.78
+  response: 7E80562208C0116

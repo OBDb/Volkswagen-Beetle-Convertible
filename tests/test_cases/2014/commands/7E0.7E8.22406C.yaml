@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22406C
+test_cases:
+- expected_values:
+    BEETLECONV_GPF_OIL_ASH_MASS: 28.15
+  response: 7E80762406C0AFF7298
+- expected_values:
+    BEETLECONV_GPF_OIL_ASH_MASS: 28.15
+  response: 7E80762406C0AFF8665

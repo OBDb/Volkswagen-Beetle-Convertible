@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22105D
+test_cases:
+- expected_values:
+    BEETLECONV_BRAKE_PEDAL_POS: 3.17382
+  response: 7E80562105D0104
+- expected_values:
+    BEETLECONV_BRAKE_PEDAL_POS: 3.3081
+  response: 7E80562105D010F

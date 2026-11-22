@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    BEETLECONV_RUNTM: 1817
+  response: 7E80562F41F0719
+- expected_values:
+    BEETLECONV_RUNTM: 1971
+  response: 7E80562F41F07B3

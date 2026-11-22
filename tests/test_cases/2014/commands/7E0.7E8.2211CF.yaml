@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211CF
+test_cases:
+- expected_values:
+    BEETLECONV_BRAKE_BOOSTER_P: 0
+  response: 7E8076211CF0000001E

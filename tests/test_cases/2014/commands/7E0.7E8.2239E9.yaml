@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2239E9
+test_cases:
+- expected_values:
+    BEETLECONV_SENS_PARTICLE_FLT_P: 798
+  response: 7E8056239E9031E
+- expected_values:
+    BEETLECONV_SENS_PARTICLE_FLT_P: 910
+  response: 7E8056239E9038E

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22204C
+test_cases:
+- expected_values:
+    BEETLECONV_FUEL_RATE: 82.75
+  response: 7E80562204C2053
+- expected_values:
+    BEETLECONV_FUEL_RATE: 83.28
+  response: 7E80562204C2088

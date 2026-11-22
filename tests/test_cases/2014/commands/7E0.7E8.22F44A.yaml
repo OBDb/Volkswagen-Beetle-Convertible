@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F44A
+test_cases:
+- expected_values:
+    BEETLECONV_ACCEL_PEDAL_POS_2: 45.88235
+  response: 7E80462F44A75
+- expected_values:
+    BEETLECONV_ACCEL_PEDAL_POS_2: 46.27451
+  response: 7E80462F44A76

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22208B
+test_cases:
+- expected_values:
+    BEETLECONV_GPF_SOOT_MASS_CALC: 347
+  response: 7E80562208B015B
+- expected_values:
+    BEETLECONV_GPF_SOOT_MASS_CALC: 366
+  response: 7E80562208B016E

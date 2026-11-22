@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222037
+test_cases:
+- expected_values:
+    BEETLECONV_ENG_AIR_MASS_SPEC: 27409
+  response: 7E8056220376B11
+- expected_values:
+    BEETLECONV_ENG_AIR_MASS_SPEC: 27749
+  response: 7E8056220376C65
